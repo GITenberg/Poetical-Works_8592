@@ -1,0 +1,33 @@
+_repo: Poetical-Works_8592
+contributor:
+  creator:
+    editor:
+      agent_name: Gilfillan, George
+      birthdate: 1813
+      deathdate: 1878
+      gutenberg_agent_id: '3126'
+      url: http://www.gutenberg.org/2009/agents/3126
+      wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
+creator:
+  author:
+    agent_name: Churchill, Charles
+    alias: Churchill, C. (Charles)
+    birthdate: 1731
+    deathdate: 1764
+    gutenberg_agent_id: '2819'
+    url: http://www.gutenberg.org/2009/agents/2819
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Churchill
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 18th century'
+- !lcc 'PR'
+title: Poetical Works
+url: http://www.gutenberg.org/ebooks/8592
